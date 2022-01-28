@@ -1,4 +1,4 @@
-import FA2Layout, { FA2LayoutSupervisorParameters } from "graphology-layout-forceatlas2/worker";
+import FA2Layout, { FA2LayoutSupervisorParameters } from "@visdauas/graphology-layout-forceatlas2/worker";
 
 import { useWorkerLayoutFactory, LayoutWorkerHook } from "./index";
 

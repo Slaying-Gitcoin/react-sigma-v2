@@ -1,4 +1,4 @@
-import forceAtlas2, { ForceAtlas2LayoutOptions } from "graphology-layout-forceatlas2";
+import forceAtlas2, { ForceAtlas2LayoutOptions } from "@visdauas/graphology-layout-forceatlas2";
 
 import { useLayoutFactory, LayoutHook } from "./index";
 
